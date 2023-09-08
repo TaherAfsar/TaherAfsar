@@ -21,8 +21,12 @@ DJSCE'26 | Web Development Intern | Freelancer | Full Stack Developer
 
 ## About :sunglasses:
 "Transforming Ideas into Dynamic Digital Realities"
+<br>
+
 As an enthusiastic and accomplished Full stack developer, I proudly hold a diploma in computer engineering from the esteemed Vidyalankar Polytechnic. My journey began in 2021, and since then, I've been soaring as a passionate freelancer, masterfully crafting custom-coded websites that leave a lasting impression.
+<br>
 My expertise doesn't stop there – I've also honed my skills in developing dynamic websites using CMS platforms like Wix and WordPress since 2020. The thrill of web development fuels my every move, and currently, I'm shining as a dynamic MERN stack Developer, proficiently navigating through various web development frameworks, including the versatile Django and the PHP stack.
+<br>
 I take immense pride in my achievements, having emerged as a Runner Up in an exhilarating Internal hackathon at Vidyalankar Polytechnic. Additionally, I've claimed the coveted 1st position in a fiercely competitive state-level C coding competition.
 
 
