@@ -1,5 +1,5 @@
  <a href="https://taherafsar.netlify.app/">
-  <img align="left" alt="Taher's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/website.svg" />
+  <img align="left" alt="Taher's Portfolio" width="22px" src="https://img.icons8.com/ios/50/domain--v1.png" />
 </a>
 <a href="https://www.linkedin.com/in/taher-afsar-b724b6228/">
   <img align="left" alt="Taher's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
