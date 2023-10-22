@@ -35,9 +35,6 @@ I take immense pride in my achievements, having emerged as a Runner Up in an exh
 <br>
 Apart from the development skills I am also a great team leader, I was the Technical Head Of Computer Engineering at Vidyalankar Polytechnic.
 
-## My Holopin Badge:
-
-[![@taherafsar's Holopin board](https://www.holopin.io/@taherafsar#badges)](https://www.holopin.io/@taherafsar)
 
 ## Technologies :fire:
 - Data Science.
