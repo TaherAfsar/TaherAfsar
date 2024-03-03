@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-DJSCE'26 | Web Development Intern | Freelancer | Full Stack Developer
+DJSCE'26 | 🏆3x Hackathon Winner | Web Development Intern | Freelancer | Full Stack Developer | Winner State Level C Coding Competition '22 🏆 
 
 ## About :sunglasses:
 "Transforming Ideas into Dynamic Digital Realities"
