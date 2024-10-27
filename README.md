@@ -17,7 +17,7 @@
 <br/>
 <br/>
 
-DJSCE'26 | 🏆5x Hackathon Winner | Web Development Intern | Freelancer | Full Stack Developer | Winner State Level C Coding Competition '22 🏆 
+DJSCE'26 | 🏆6x Hackathon Winner | Bajaj HackRx 5.0 Winner 🏆  | Freelancer | Full Stack Developer | Winner State Level C Coding Competition '22 🏆 
 
 ## About :sunglasses:
 "Transforming Ideas into Dynamic Digital Realities"
