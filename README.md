@@ -1,4 +1,4 @@
-<a href="https://taherafsar.netlify.app/">
+<a href="https://taherafsar.dev/">
   <img align="left" alt="Taher's Portfolio" width="22px" src="https://img.icons8.com/ios/50/domain--v1.png" />
 </a>
 <a href="https://www.linkedin.com/in/taherafsar">
