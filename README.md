@@ -16,45 +16,77 @@
 <a href="https://m.facebook.com/taherafsar">
   <img align="left" alt="Taher's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
 <br/>
 <br/>
 
-🏆 **6x Hackathon Winner** | **DJSCE '26** | **Bajaj HackRx 5.0 Winner** 🏆 | **Freelancer** | **Full Stack Developer** | **State Level C Coding Competition Winner '22** 🏆
+🏆 **7x Hackathon Winner** | **DJSCE '26** | **Backend Developer at FyreGig** 🏆 | **Full Stack Developer** | **TypeScript Enthusiast** 🏆
 
 ---
 
 ## About Me 🧑‍💻
-"Transforming Ideas into Dynamic Digital Realities"  
+"Transforming Ideas into Scalable Digital Solutions"  
 
-As an accomplished **Full Stack Developer**, I hold a diploma in Computer Engineering from **Vidyalankar Polytechnic** and am currently pursuing **B.Tech in Computer Science and Engineering (Data Science)** from **DJ Sanghvi College of Engineering**.  
+As an accomplished **Full Stack Developer** with expertise in building high-performance backend systems, I hold a **Diploma in Computer Engineering** from **Vidyalankar Polytechnic** and am currently pursuing **B.Tech in Computer Science and Engineering (Data Science)** from **Dwarkadas J. Sanghvi College of Engineering**.  
 
-Since 2021, I’ve been building custom-coded and CMS-based websites (Wix, WordPress) and developing dynamic web applications using frameworks like **MERN**, **Django**, and **PHP** stacks.  
+Currently working as a **Backend Developer at FyreGig** (Remote), where I've built scalable infrastructure serving **500K+ downloads** and **5K+ concurrent users** using TypeScript, Node.js, PostgreSQL, and AWS services.  
 
-My recent work includes AI-powered platforms, scalable web applications, and innovative hackathon-winning projects focused on real-world problems.  
+My experience spans across multiple internships including **Ekalon Consultancy**, **X38 AI Labs**, and **99 Hectors**, where I've developed enterprise-grade ERP systems, AI-powered platforms, and comprehensive CRM solutions.
 
 ---
 
 ## Technologies & Skills 🚀
-- **Languages**: Java, Python, JavaScript, C, C++, SQL, PHP, HTML, CSS  
-- **Frameworks**: React, Node.js, Express.js, Django, Flask, FastAPI  
-- **Libraries**: MERN Stack, NumPy, Pandas, Scikit-learn, OpenCV  
-- **Databases**: MySQL, MongoDB, Firebase Realtime DB  
-- **Cloud Technologies**: AWS (EC2, S3, RDS), Netlify, Vercel  
-- **Others**: Docker, Kubernetes, Tableau, Power BI, Google Maps API, Socket.IO  
+
+- **Languages**: Python, TypeScript, JavaScript, Java
+- **Backend Frameworks**: Django, Flask, Node.js, Express.js, Socket.IO  
+- **Frontend**: React.js, TailwindCSS, Bootstrap
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis  
+- **Cloud & DevOps**: AWS (EC2, S3, RDS, IAM), Docker, PM2
+- **Tools**: Git CLI, GitHub, Postman, Swagger
 
 ---
 
-## Highlights 🌟
-- **EcoSaathi**: A Hackathon-winning waste management app integrating ML, IoT, and CVRP route optimization.  
-- **CodeUnite**: Real-time collaboration platform for developers with Socket.IO and AWS integration.  
-- **ResQConnect**: Emergency rescue app with real-time notifications using Firebase and Google Maps API.  
-- **Wi-Fi Attendance System**: Automated attendance logging system leveraging MAC address detection.  
+## Professional Experience 💼
+
+### **FyreGig - Backend Developer** (04/2025 - 06/2025)
+- Built scalable backend infrastructure serving **500K+ downloads** and **5K+ concurrent users**
+- Engineered automated **RESTful APIs** for MamaMart and Fundsmama platforms
+- Enhanced scalability using **AWS EC2**, **RDS**, and **S3** with load balancing solutions
+
+### **Ekalon Consultancy - SDE Intern** (12/2024 – 03/2025)
+- Built enterprise-wide **ERP system** supporting **500+ concurrent users**
+- Developed complete solution for Abhitech Energycon's internal Technical tool
+
+### **X38 AI Labs - SDE Intern** (06/2024 - 09/2024)
+- Engineered **AI-powered website generation platform**
+- Architected universal data abstraction layer for SQL and NoSQL databases
+
+### **99 Hectors - Django Developer** (03/2022 - 09/2022)
+- Developed comprehensive **CRM software** for real estate operations
+- Built dynamic website with automated property listings and booking system
+
+---
+
+## Featured Projects 🌟
+
+### **Fundsmama - Loan Management Backend System**
+- **Tech Stack**: TypeScript, Node.js, PostgreSQL, Express.js, Redis, AWS
+- Developed robust backend APIs for loan platform with **500K+** downloads
+- Implemented **Redis caching layer** and automated invoice generation
+- [🔗 View on Google Play](https://play.google.com/store/apps/details?id=com.fundsmama.personalloan)
+
+### **SVKM Hall Booking System**  
+- **Tech Stack**: MERN Stack, REST APIs
+- Full-fledged platform used across all SVKM institutes in Mumbai
+- Supports **1000+ concurrent users** and **500+ daily bookings**
+
+### **White Lotus Hospital - ERP Backend System**
+- **Tech Stack**: Node.js, Express, TypeScript, PostgreSQL, AWS
+- Comprehensive hospital management backend with role-based access control
+- [🔗 API Documentation](https://api.whitelotushospital.com/docs/)
 
 ---
 
 ## GitHub Stats 📊
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taherafsar&hide_border=true&layout=compact&theme=dark" align="center" />
 </div>  
@@ -66,14 +98,25 @@ My recent work includes AI-powered platforms, scalable web applications, and inn
 ---
 
 ## Achievements 🏅
-- **Hackathons**: Winner of 6 hackathons including Bajaj HackRx 5.0 and PICT International Hackathon.  
-- **Coding Competitions**: State-level C coding competition winner.  
-- **Freelancing**: Developed web solutions for real estate, e-commerce, and health sectors.  
+- **🏆 7x Hackathon Winner**: Winner at prominent National and International level hackathons
+- **💼 Professional Impact**: Built systems serving 500K+ users and handling 5K+ concurrent users
+- **🚀 Scalable Solutions**: Expertise in building enterprise-grade applications with high availability
+- **☁️ Cloud Architecture**: Proficient in AWS services for scalable deployment and infrastructure
+
+---
+
+## Current Focus 🎯
+- Building scalable backend systems with **TypeScript** and **Node.js**
+- Exploring advanced **AWS** services and cloud architecture patterns  
+- Contributing to open-source projects and sharing knowledge through technical content
+- Preparing for **Software Engineering** roles at top-tier companies
 
 ---
 
 <div align="center">
 
-### Show some ❤️ by starring my repositories and connecting with me!
+### 📫 Let's Connect!
+**Website**: [taherafsar.dev](https://taherafsar.dev) | **Email**: taherafsar.work@gmail.com | **Phone**: +91 8356994540 | **Location**: Mumbai, India
 
+### Show some ❤️ by starring my repositories and connecting with me!
 </div>
