@@ -21,6 +21,8 @@
 
 🏆 **7x Hackathon Winner** | **DJSCE '26** | **Backend Developer at FyreGig** 🏆 | **Full Stack Developer** | **TypeScript Enthusiast** 🏆
 
+**🌐 Check out my portfolio**: [taherafsar.dev](https://taherafsar.dev)
+
 ---
 
 ## About Me 🧑‍💻
@@ -74,15 +76,10 @@ My experience spans across multiple internships including **Ekalon Consultancy**
 - Implemented **Redis caching layer** and automated invoice generation
 - [🔗 View on Google Play](https://play.google.com/store/apps/details?id=com.fundsmama.personalloan)
 
-### **SVKM Hall Booking System**  
-- **Tech Stack**: MERN Stack, REST APIs
-- Full-fledged platform used across all SVKM institutes in Mumbai
-- Supports **1000+ concurrent users** and **500+ daily bookings**
-
 ### **White Lotus Hospital - ERP Backend System**
 - **Tech Stack**: Node.js, Express, TypeScript, PostgreSQL, AWS
 - Comprehensive hospital management backend with role-based access control
-- [🔗 API Documentation](https://api.whitelotushospital.com/docs/)
+- [🔗 Deployed Link](https://whitelotushospital.com)
 
 ---
 
