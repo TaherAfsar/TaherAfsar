@@ -19,101 +19,114 @@
 <br/>
 <br/>
 
-🏆 **7x Hackathon Winner** | **DJSCE '26** | **Backend Developer at FyreGig** 🏆 | **Full Stack Developer** |  🏆
+# Taher Afsar
 
-**🌐 Check out my portfolio**: [taherafsar.dev](https://taherafsar.dev)
+**BTSA, AI Centre of Excellence @ ZS** · Ex-SDE Intern @ Swiggy Instamart · 7x Hackathon Winner · B.Tech CSE (Data Science), DJSCE '26
 
----
-
-## About Me 🧑‍💻
-"Transforming Ideas into Scalable Digital Solutions"  
-
-As an accomplished **Full Stack Developer** with expertise in building high-performance backend systems, I hold a **Diploma in Computer Engineering** from **Vidyalankar Polytechnic** and am currently pursuing **B.Tech in Computer Science and Engineering (Data Science)** from **Dwarkadas J. Sanghvi College of Engineering**.  
-
-Currently working as a **Backend Developer at FyreGig** (Remote), where I've built scalable infrastructure serving **500K+ downloads** and **5K+ concurrent users** using TypeScript, Node.js, PostgreSQL, and AWS services.  
-
-My experience spans across multiple internships including **Ekalon Consultancy**, **X38 AI Labs**, and **99 Hectors**, where I've developed enterprise-grade ERP systems, AI-powered platforms, and comprehensive CRM solutions.
+[Portfolio](https://taherafsar.dev) · [Resume](https://taherafsar.dev/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/taherafsar)
 
 ---
 
-## Technologies & Skills 🚀
+## About
 
-- **Languages**: Python, TypeScript, JavaScript, Java
-- **Backend Frameworks**: Django, Flask, Node.js, Express.js, Socket.IO  
-- **Frontend**: React.js, TailwindCSS, Bootstrap
-- **Databases**: PostgreSQL, MySQL, MongoDB, Redis  
-- **Cloud & DevOps**: AWS (EC2, S3, RDS, IAM), Docker, PM2
-- **Tools**: Git CLI, GitHub, Postman, Swagger
+I build software that solves real operational problems.
 
----
+At **Swiggy Instamart** I spent nine months on warehouse technology deployed pan-India, where a bug means a warehouse team standing idle at 6 AM. I built a natural-language-to-SQL layer with RAG-based schema retrieval, replaced a third-party label printing vendor across every Instamart warehouse (saving **₹26 lakh a year**), and shipped a face recognition attendance system handling **1,500 check-ins a day**.
 
-## Professional Experience 💼
+Before that I architected the backend for **Fundsmama**, a lending platform with **500K+ Play Store downloads**, integrating **23 loan providers** with Kafka event streams for real-time loan status. I've also built enterprise ERP systems, a knowledge-graph data context layer for AI agents, and multi-tenant booking platforms.
 
-### **FyreGig - Backend Developer** (04/2025 - 06/2025)
-- Built scalable backend infrastructure serving **500K+ downloads** and **5K+ concurrent users**
-- Engineered automated **RESTful APIs** for MamaMart and Fundsmama platforms
-- Enhanced scalability using **AWS EC2**, **RDS**, and **S3** with load balancing solutions
-
-### **Ekalon Consultancy - SDE Intern** (12/2024 – 03/2025)
-- Built enterprise-wide **ERP system** supporting **500+ concurrent users**
-- Developed complete solution for Abhitech Energycon's internal Technical tool
-
-### **X38 AI Labs - SDE Intern** (06/2024 - 09/2024)
-- Engineered **AI-powered website generation platform**
-- Architected universal data abstraction layer for SQL and NoSQL databases
-
-### **99 Hectors - Django Developer** (03/2022 - 09/2022)
-- Developed comprehensive **CRM software** for real estate operations
-- Built dynamic website with automated property listings and booking system
+I've just finished my B.Tech at D.J. Sanghvi and joined **ZS** as a Business Technology Solutions Associate in the AI Centre of Excellence.
 
 ---
 
-## Featured Projects 🌟
+## Tech Stack
 
-### **Fundsmama - Loan Management Backend System**
-- **Tech Stack**: TypeScript, Node.js, PostgreSQL, Express.js, Redis, AWS
-- Developed robust backend APIs for loan platform with **500K+** downloads
-- Implemented **Redis caching layer** and automated invoice generation
-- [🔗 View on Google Play](https://play.google.com/store/apps/details?id=com.fundsmama.personalloan)
-
-### **White Lotus Hospital - ERP Backend System**
-- **Tech Stack**: Node.js, Express, TypeScript, PostgreSQL, AWS
-- Comprehensive hospital management backend with role-based access control
-- [🔗 Deployed Link](https://whitelotushospital.com)
+| Area | Tools |
+| --- | --- |
+| **Languages** | TypeScript, Python, JavaScript, Java |
+| **Backend** | Node.js, Express.js, FastAPI, Flask, Django |
+| **AI / Retrieval** | RAG pipelines, LLM query generation, ChromaDB, FAISS, InsightFace, semantic caching |
+| **Data & Messaging** | PostgreSQL, MySQL, MongoDB, Redis, Kafka |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Cloud & DevOps** | AWS (EC2, S3, RDS), Docker, PM2 |
 
 ---
 
-## GitHub Stats 📊
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taherafsar&hide_border=true&layout=compact&theme=dark" align="center" />
-</div>  
-<br/>  
+## Experience
+
+**ZS** · BTSA, AI (Centre of Excellence) · *Jul 2026 – Present* · Pune
+
+**Swiggy (Instamart)** · SDE Intern · *Oct 2025 – Jun 2026* · Bengaluru
+- Built an end-to-end **RAG pipeline for a natural-language-to-SQL analytics agent**, combining semantic retrieval over schema context with LLM query generation and ChromaDB query caching to cut latency and token cost.
+- Built a **label printing desktop app** (Python, PostgreSQL) deployed across all Instamart warehouses pan-India, saving **~₹26 lakh annually**.
+- Engineered a **face recognition attendance system** (InsightFace, FAISS, Flask) processing **~1,500 check-ins/day**, with offline resilience during network outages.
+- Developed the **daily picking algorithm** with expiry-ordered batch allocation and layout-aware sequencing, reducing picker travel time across the warehouse network.
+
+**ByteFuse** · Co-Founder · *Jun 2024 – Oct 2025*
+- Co-founded a software services company and owned the client lifecycle from pitch and scoping through delivery.
+- Delivered ERP systems and loan management platforms for clients across industries, running parallel engagements end to end.
+
+**Fyre Gig** · Backend Developer Intern · *Jan 2025 – May 2025*
+- Architected the backend for **Fundsmama**, a consumer lending platform with **500K+ downloads** and **50K+ MAU**.
+- Built a **multi-lender aggregation engine** integrating **23 loan providers**, with **Kafka** event streams for real-time loan status.
+- Designed approval state machines for disbursement tracking and repayment reconciliation, with RBAC and audit trails.
+- Implemented a loan eligibility engine with **Redis** caching and rate limiting; also built inventory (Bombay Tyres) and S3-backed document management (Rupali Logistics) systems.
+
+**Ekalon Consulting** · Software Developer Intern · *Dec 2024 – Mar 2025*
+- Built an enterprise ERP (React, Node.js, Express, MongoDB on AWS EC2) supporting **500+ concurrent users**: asset management, project and task tracking, team management, and analytics dashboards.
+- Implemented JWT auth with role-based permissions and audit logging, and designed versioned REST APIs with validation and rate limiting.
+
+**X38 AI Labs** · JavaScript Developer Intern · *Jun 2024 – Aug 2024*
+- Engineered a **universal data context layer** unifying SQL, NoSQL and flat-file sources into a single knowledge graph for AI agents.
+- Built schema lineage tracking, schema-aware query planning to keep LLM-generated queries grounded, and TTL-based semantic caching.
+
+**Earlier:** Web Developer Intern at Unscrap Media (*Aug 2023 – Jan 2024*) · Full Stack Developer at 99Hectors (*Mar 2022 – Aug 2022*), building the company website, CMS and lead-tracking pipeline in Django.
+
+---
+
+## Selected Projects
+
+**[Fundsmama](https://fundsmama.com/)**: lending platform backend · TypeScript, Node.js, PostgreSQL, Redis, Kafka, AWS
+Eligibility checks, lead distribution, partner commissions with automated invoicing, and multi-lender API integration for an app with 500K+ downloads. [Play Store](https://play.google.com/store/apps/details?id=com.fundsmama.personalloan)
+
+**AI-Driven Recruitment Platform** · Node.js, Express.js, LLMs, Computer Vision
+Automates ~90% of hiring with LLM screening, a computer-vision-proctored DSA assessment, and virtual interviews with automated scoring and scheduling.
+
+**[White Lotus Hospital ERP](https://whitelotushospital.com/)** · Node.js, TypeScript, PostgreSQL, AWS
+Hospital management backend with CMS, doctor and patient management, and automated appointment scheduling. [API docs](https://api.whitelotushospital.com/docs/)
+
+**SVKM Hall Booking System** · MERN
+Hall booking platform for SVKM institutes across Mumbai, with real-time availability and role-based access, taken from development to production.
+
+---
+
+## Hackathons
+
+7x winner, including:
+- 🥇 **BitNBuild 2025** (International), IDFC FIRST Bank track, 800+ teams: *CampaignAI*, multi-agent marketing campaign automation
+- 🥇 **Bajaj Finserv HackRx 5.0**: *Legal AI Analytics & Alarm System* for insurance fraud detection from Indian court data (₹1,00,000 prize)
+- 🥇 **XIE Technova 2025**: AI productivity suite with a VS Code extension, AI meeting assistant, and skill-based task distribution
+- 🥇 **PICT TechFiesta 2024** (International, 30 hrs): *EcoSaathi*, CV-based litter detection and CVRP route optimization for waste management
+
+---
+
+## Leadership
+
+- **Technical Head**, DJS S4DS: led a team of 7, ran 2 hackathons and built the DataHack and Xtract websites
+- **Web Development Mentor**, DJS Compute: mentored students and led production projects including the SVKM Hall Booking System
+- **Technical Head**, VP Techshala: ran workshops for 70+ students and organized a hackathon
+
+---
+
+## Education
+
+- **B.Tech, Computer Science & Engineering (Data Science)**, Dwarkadas J. Sanghvi College of Engineering, Mumbai · *2023 – 2026*
+- **Diploma, Computer Engineering**, Vidyalankar Polytechnic, Mumbai · *2020 – 2023*
+
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taherafsar&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" />
-</div>   -->
 
----
+**Email**: taherafsar.work@gmail.com · **Website**: [taherafsar.dev](https://taherafsar.dev) · **Location**: Pune / Mumbai, India
 
-## Achievements 🏅
-- **🏆 7x Hackathon Winner**: Winner at prominent National and International level hackathons
-- **💼 Professional Impact**: Built systems serving 500K+ users and handling 5K+ concurrent users
-- **🚀 Scalable Solutions**: Expertise in building enterprise-grade applications with high availability
-- **☁️ Cloud Architecture**: Proficient in AWS services for scalable deployment and infrastructure
-
----
-
-## Current Focus 🎯
-- Building scalable backend systems with **TypeScript** and **Node.js**
-- Exploring advanced **AWS** services and cloud architecture patterns  
-- Contributing to open-source projects and sharing knowledge through technical content
-- Preparing for **Software Engineering** roles at top-tier companies
-
----
-
-<div align="center">
-
-### 📫 Let's Connect!
-**Website**: [taherafsar.dev](https://taherafsar.dev) | **Email**: taherafsar.work@gmail.com | **Phone**: +91 8356994540 | **Location**: Mumbai, India
-
-### Show some ❤️ by starring my repositories and connecting with me!
 </div>
